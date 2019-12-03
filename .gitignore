@@ -7,5 +7,8 @@ __pycache__
 *.toc
 *.synctex
 *.db
+*.nav
+*.out
+*.snm
 
 
